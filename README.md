@@ -1,8 +1,8 @@
 - Hi, I’m @DaveFreezo.
 - I’m interested in Software development, Cybersecurity, Cryptography and Artificial Intelligence.
-- I’m currently pursuing a BBIT degree in Mku.
+- I’m currently pursuing a BBIT degree in MKU.
 - I do IT consultancy.
-- 
+
 - I’m looking to collaborate on this platform.
 
 
